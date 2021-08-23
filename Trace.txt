@@ -1,0 +1,21 @@
+Index ->
+	1. database->server.php
+	2. database->var.php
+
+    3. includes->header.php ->
+        3.1 imports.php
+
+	4. pages->home.php
+
+	5. includes->menu.php ->
+	    5.1 intro.php
+	    5.2 work.php
+	    5.3 blog.php
+	    5.4 post_blog.php
+	    5.5 about.php
+	    5.6 contact.php
+	    5.7 elements.php
+
+
+	6. includes->footer.php
+	    6.1 script.php
